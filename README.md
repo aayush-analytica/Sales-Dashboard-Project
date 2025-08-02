@@ -100,8 +100,3 @@ This project uses the popular **Superstore dataset** and provides a comprehensiv
 
 ---
 
-
-
-
-If you found this dashboard insightful, drop a ⭐ or fork the project to build your own version!  
-For feedback or collaboration, open an issue or reach out directly!
